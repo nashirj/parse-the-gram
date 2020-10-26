@@ -1,0 +1,6 @@
+framework module Pods_parse_the_gramTests {
+  umbrella header "Pods-parse-the-gramTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
