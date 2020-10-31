@@ -9,6 +9,7 @@ target 'parse-the-gram' do
 
   pod 'Parse'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
 
   target 'parse-the-gramTests' do
     inherit! :search_paths
